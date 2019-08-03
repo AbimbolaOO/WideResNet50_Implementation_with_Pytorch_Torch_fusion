@@ -11,6 +11,7 @@ Wide Residual Networks prevents issues such as: <br>
 1.) Diminishing Feature Reuse: This typically occurs in deep residual network in with the residual units are not learning enough useful features because there is nothing to force the gradients through the networks. <br>
 2.) Training speed: Just like every deep neural networks, residual networks take very long time to train because they are have very large parameter that are difficult to compute with a GPU.
 
+![image](./convnet-02.png)
 
 # Requirements
 ---
